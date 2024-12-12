@@ -21,7 +21,7 @@ for detection in detections.boxes.data.tolist():
         (int(x1), int(y1) - 10),
         cv2.FONT_HERSHEY_SIMPLEX,
         0.5,
-        (255, 255, 255),
+        (0, 0, 0),
         2,
     )
 
