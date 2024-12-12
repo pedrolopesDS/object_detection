@@ -1,4 +1,4 @@
-# Detecção de Cães e Gatos com YOLOv8
+# Detecção de Cães e Gatos com YOLOv8 (Intermediário)
 
 O projeto tem como objetivo realizar a detecção de cães e gatos em imagens utilizando o modelo de visão computacional YOLOv8, um dos mais avançados para tarefas de detecção de objetos. Por meio de técnicas de aprendizado profundo, o sistema analisa imagens fornecidas e identifica automaticamente a presença de cães e gatos, desenhando caixas delimitadoras ao redor dos animais e exibindo a confiança da detecção.
 ---
